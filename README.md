@@ -26,5 +26,8 @@ cd nutrilens-ai
 # Install dependencies
 pip install -r requirements.txt
 
+# Set up database
+python setup_database.py
+
 # Run the application
-python app.py
+python app.py or streamlit run app.py
