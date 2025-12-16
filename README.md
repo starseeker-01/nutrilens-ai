@@ -30,4 +30,4 @@ pip install -r requirements.txt
 python setup_database.py
 
 # Run the application
-python app.py or streamlit run app.py
+streamlit run app.py # or python app.py 
